@@ -100,7 +100,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aplica todo lo aprendido construyendo una mini aplicación POO: un registro de estudiantes. Además, conoce los errores más comunes y cómo evitarlos.
 - **Enlace**: [Ver la lección](https://youtu.be/NnmStqFVkN4)
 - **Conclusiones clave**: Un programa real combina clases, métodos, bucles y decisiones; leer los mensajes de error te ayuda a corregir tu código.
-- **Proyecto final**: [Crea tu aplicación](https://onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
 
 ---
 
