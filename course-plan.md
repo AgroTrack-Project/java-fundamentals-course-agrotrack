@@ -89,18 +89,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 9: Arrays (5 minutos)
 
 - **Descripción**: Aprende a manejar listas de datos usando arrays. Verás cómo recorrerlos con bucles y cómo usarlos junto a objetos.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver la lección](https://youtu.be/QqUCQz-URRI)
 - **Conclusiones clave**: `int[] notas = {10, 15, 18};` define un array; puedes recorrerlo con un `for` para procesar cada elemento.
-- **Práctica**: [Clic para programar](https://replit.com) 👈 **¡Sin instalación!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Sin instalación!**
 
 ---
 
 ### Lección 10: Proyecto Final y Buenas Prácticas (7 minutos)
 
 - **Descripción**: Aplica todo lo aprendido construyendo una mini aplicación POO: un registro de estudiantes. Además, conoce los errores más comunes y cómo evitarlos.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver la lección](https://youtu.be/NnmStqFVkN4)
 - **Conclusiones clave**: Un programa real combina clases, métodos, bucles y decisiones; leer los mensajes de error te ayuda a corregir tu código.
-- **Proyecto final**: [Crea tu aplicación](https://replit.com) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
 
 ---
 
@@ -119,8 +119,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 6 | Métodos | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 | 7 | Clases y Objetos | [Replit](https://replit.com) |
 | 8 | Encapsulación | [Replit](https://replit.com) |
-| 9 | Arrays | [Replit](https://replit.com) |
-| 10 | Proyecto Final | [Replit](https://replit.com) |
+| 9 | Arrays | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
+| 10 | Proyecto Final | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 
 
 **¡Gracias por completar el curso!** 
