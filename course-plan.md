@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 4: Operadores y expresiones (5 minutos)
 
 - **Descripción**: Aprende a realizar cálculos y comparaciones en Java usando operadores aritméticos, relacionales y lógicos.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver la lección](https://youtu.be/NYyj4LgjpUk)
 - **Conclusiones clave**: Operadores aritméticos (`+`, `-`, `*`, `/`); relacionales (`>`, `<`, `==`); lógicos (`&&`, `||`, `!`).
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Sin instalación!**
 
@@ -53,7 +53,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Estructuras de control (10 minutos)
 
 - **Descripción**: Aprende a tomar decisiones con `if`, `else if` y `else`, y a repetir acciones con los bucles `for` y `while`. Ambos son formas de controlar el flujo de tu programa.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver la lección](https://youtu.be/hvmHgLulJtk)
 - **Conclusiones clave**: `if (edad >= 18) { ... } else { ... }` ejecuta código según una condición; `for (int i = 0; i < 5; i++) { ... }` repite una acción un número fijo de veces.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Inicio inmediato!**
 
