@@ -17,8 +17,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: ¿Qué es Java y la Programación? (4 minutos)
 
 - **Descripción**: Descubre qué es programar, para qué sirve Java y por qué es un excelente lenguaje para comenzar.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver la lección](https://youtu.be/h9JCcBnpqFc)
 - **Conclusiones clave**: La programación es dar instrucciones a una computadora; Java se usa en aplicaciones, videojuegos y más.
+- **Material de video**: [Ver material](https://canva.link/ft205ayny5t28t8)
 - **Empieza a programar**: [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) 👈 **¡Sin registro!**
 
 ---
@@ -28,16 +29,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Escribe y ejecuta tu primer programa en Java: el clásico "Hola Mundo". Entiende la estructura básica de un programa.
 - **Enlace**: [AGREGAR LINK DE YOUTUBE]()
 - **Conclusiones clave**: Todo programa Java tiene una clase y un método `main`; `System.out.println()` muestra texto en pantalla.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Ejemplo de la sección](https://www.jdoodle.com/online-java-compiler) 👈**¡Inicio inmediato!**
 
 ---
 
 ### Lección 3: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a guardar información en tu programa usando variables y los tipos de datos más comunes de Java.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [Ver lección](https://youtu.be/MloTCtGn0Cg)
 - **Conclusiones clave**: Usa `int` para números enteros, `String` para texto, `double` para decimales, `boolean` para verdadero/falso; declara como `int edad = 15;`
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
+- **Material de video**: [Ver material](https://canva.link/c58zhbsrkbda61g)
+- **Ejemplo de la sección**: [Ver ejemplo](https://onlinegdb.com/QVPrZbgwU) 👈 **¡No es necesario registrarse!**
 
 ---
 
