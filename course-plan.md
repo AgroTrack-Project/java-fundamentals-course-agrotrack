@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Descubre qué es la Programación Orientada a Objetos. Crea tu primera clase con atributos, un constructor y métodos simples.
 - **Enlace**: [Ver la lección](https://youtu.be/t5HGIUyUqbc)
 - **Conclusiones clave**: Una clase es como un molde; un objeto es algo creado a partir de ese molde; `Estudiante alumno = new Estudiante("Ana", 16, "Quinto de secundaria");`
-- **Práctica**: [Clic para programar]([https://replit.com](https://onlinegdb.com/online_java_compiler)) 👈 **¡Guarda y comparte tu código!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte tu código!**
 
 ---
 
@@ -84,7 +84,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a proteger los datos de tus clases usando `private`, y a controlar su acceso mediante getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/QZQmG8RXfuw)
 - **Conclusiones clave**: `private` protege los atributos de una clase; los getters y setters son métodos que permiten leer y modificar esos atributos de forma controlada.
-- **Práctica**: [Clic para programar]([https://replit.com](https://onlinegdb.com/online_java_compiler)) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡No es necesario registrarse!**
 
 ---
 
