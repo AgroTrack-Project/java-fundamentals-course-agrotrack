@@ -26,7 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 2: Tu primer programa en Java (4 minutos)
 
 - **Descripción**: Escribe y ejecuta tu primer programa en Java: el clásico "Hola Mundo". Entiende la estructura básica de un programa.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [https://youtu.be/sAjE2fmcb8A]()
 - **Conclusiones clave**: Todo programa Java tiene una clase y un método `main`; `System.out.println()` muestra texto en pantalla.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
@@ -62,7 +62,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 6: Métodos y parámetros (6 minutos)
 
 - **Descripción**: Aprende a organizar tu código en bloques reutilizables llamados métodos. Los usaremos de forma simple, sin clases propias, como preparación para la POO.
-- **Enlace**: [AGREGAR LINK DE YOUTUBE]()
+- **Enlace**: [https://www.youtube.com/watch?v=TT1-qq6xnZY]()
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }` define un método; los métodos evitan repetir código y hacen el programa más ordenado.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/online_java_compiler) 👈 **¡Sin registro!**
 
