@@ -5,6 +5,9 @@ Curso introductorio de Java para estudiantes de secundaria (12–17 años),
 enfocado en los fundamentos de la Programación Orientada a Objetos (POO).
 ¡No requiere instalación de ninguna herramienta!
 
+## Contenido
+Accede a "course-plan.md" donde podrás ver el curso completo con las lecciones.
+
 ## Configuración
 
 No necesitas instalar nada. Para ejecutar el código de este repositorio,
