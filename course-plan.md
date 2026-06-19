@@ -29,7 +29,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Escribe y ejecuta tu primer programa en Java: el clásico "Hola Mundo". Entiende la estructura básica de un programa.
 - **Enlace**: [Ver la lección](https://youtu.be/sAjE2fmcb8A)
 - **Conclusiones clave**: Todo programa Java tiene una clase y un método `main`; `System.out.println()` muestra texto en pantalla.
-- **Práctica**: [Ejemplo de la sección](https://www.jdoodle.com/online-java-compiler) 👈**¡Inicio inmediato!**
+- **Práctica**: [Ejemplo de la sección](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
 ---
 
@@ -119,8 +119,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4 | Operadores | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 5 | Estructuras de control | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 | 6 | Métodos | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
-| 7 | Clases y Objetos | [Replit](https://replit.com) |
-| 8 | Encapsulación | [Replit](https://replit.com) |
+| 7 | Clases y Objetos | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
+| 8 | Encapsulación | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 | 9 | Arrays | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 | 10 | Proyecto Final | [OnlineGDB](https://onlinegdb.com/online_java_compiler) |
 
@@ -144,5 +144,4 @@ NRC 11959
 - Eder Edu, Quispe Perez
 - Miler Alexander, Rodriguez Rojas 
 - Eduardo David, Velasquez Laquihuanaco
-
-**Fecha de entrega**: 21/06/2026
+ 
